@@ -150,7 +150,7 @@ main {
   position: fixed;
   top: 2rem;
   left: 3rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   background: transparent;
   border-color: transparent;
   color: var(--clr-primary-5);
@@ -164,7 +164,7 @@ main {
     transform: scale(1);
   }
   50% {
-    transform: scale(1.5);
+    transform: scale(1.25);
   }
   100% {
     transform: scale(1);
