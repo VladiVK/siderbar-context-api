@@ -10,12 +10,8 @@ const Home = () => {
     // const data = useGlobalContext();
     // console.log(data);
     const {
-        isModalOpen,
-        isSidebarOpen,
         openModal,
-        closeModal,
         openSideBar,
-        closeSideBar,
     } = useGlobalContext();
     
 
